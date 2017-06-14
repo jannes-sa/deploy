@@ -7,6 +7,7 @@ This binary deployment for deploy service to kubernetes and docker
 1. GOENV => (local,kube,dev,prod)
 2. GOAPP => (account)
 3. APPVERSION => (v1,v2)
+4. GOPATH => to/your/go/path/work/dir
 
 ### Autoscale Service Setup
 1. AS => 1 -> (to turn on Auto Scale feature) && 0 -> (to turn off Auto Scale feature)
