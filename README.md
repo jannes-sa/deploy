@@ -2,6 +2,8 @@
 
 This binary deployment for deploy service to kubernetes and docker
 
+type this into yout terminal first
+- $> eval $(minikube docker-env)
 
 ### Setup Environment
 1. GOENV => (local,kube,dev,prod)
